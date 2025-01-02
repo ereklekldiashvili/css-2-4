@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#images_Frame {
+    text-align: center;
+    margin-top: 156px;
+
+}
+
+#big-box {
+    margin: 0 auto;
+    max-width: 1137px;
+    padding: 40px 32px;
+    border-radius: 24px;
+    background: #EBF8FE;
+    margin-top: 115px;
+    height: 350px;
+}
+
+#h1 {
+    color: #181D27;
+    font-family: "Inria Sans";
+    font-size: 64px;
+    margin: 0 auto;
+    max-width: 991px;
+    width: 100%;
+
+}
+
+#updates-container {
+    max-width: 1073px;
+    width: 100%;
+    height: 88px;
+}
+
+#updates {
+    color: #535862;
+
+    font-family: "Instrument Sans";
+    font-size: 32px;
+    padding-top: 24px;
+}
+
+#subscribe {
+    max-width: 488px;
+    width: 100%;
+    height: 74px;
+    margin: 0 auto;
+    margin-top: 24px;
+}
+
+#mail {
+    padding: var(--spacing-lg, 12px) 14px;
+    border-radius: var(--radius-md, 8px);
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+    padding-right: 80px;
+}
+
+#data {
+    max-width: 345px;
+    width: 100%;
+    height: 20px;
+    font-family: var(--Font-family-font-family-body, Inter);
+    font-size: var(--Font-size-text-sm, 14px);
+    padding-top: 8px;
+    color: #535862;
+
+}
+
+#linked {
+
+    color: #535862;
+}
+
+#your {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#button-wrapper {
+    display: inline-block;
+    padding-left: 24px;
+    vertical-align: middle;
+    margin-top: -18px;
+
+}
+
+
+#button-Subscribe {
+    padding: var(--spacing-lg, 12px) 18px;
+    border: 2px solid #FFF;
+    background: #007CB8;
+    border-radius: var(--radius-md, 8px);
+    border: 2px solid #FFF;
+
+
+}
+
+#footer-div {
+    max-width: 546px;
+    padding: 40px 32px;
+    border-radius: 24px;
+    background: #EBF8FE;
+    margin: 0 auto;
+    margin-top: 72px;
+}
+
+.full-wrapper {
+    margin-bottom: 24px;
+
+}
+
+.full-wrapper input {
+    width: 100%;
+    padding: 8px 16px;
+    margin-top: 8px;
+    border-radius: 8px;
+    color: #6D5F8B;
+
+
+}
+
+.full-wrapper label {
+
+    color: #1B003D;
+    font-family: "Noto Sans Georgian";
+    font-size: 14px;
+}
+
+::placeholder {
+    color: #6D5F8B;
+}
+
+#red {
+    margin-top: 7px;
+}
+
+#chak-box {
+    margin-top: 24px;
+}
+
+#react {
+    margin-top: 10px;
+}
+
+.label-id {
+    margin-left: 11px;
+}
+
+.yrs {
+    margin-left: 11px;
+}
